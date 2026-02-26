@@ -1,0 +1,2 @@
+info,warn,error,panic,verdict,top_error,top_error_count
+138,35,23,1,FAIL - PANIC,2026-02-26T05:17:16.215Z [ERROR] app: unhandled error code=E42,5
